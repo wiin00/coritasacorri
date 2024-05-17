@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+}
+
+.roof img{
+    width: 100%;
+}
+
+.boot img{
+    width: 100%;
+}
+.kolch img{
+    width: 100%;
+}
+
+form{
+    display: grid;
+}
+  .inform{
+    display: flex;
+    justify-content: space-between;
+  }
+.kolch{
+    margin: 0;
+}
+  .pack1{
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+    display: grid;
+  }
+  .pack1 img{
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    justify-self: center;
+  }
+  .section{
+    padding: 10px 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+  }
+  .pp1{
+      text-align: center;
+      font-weight: 600;
+      font-size: 20px;
+      margin-bottom: 10px;
+  }
+.pp2{
+    
+      font-weight: 600;
+      font-size: 23px;
+      margin-left: 20px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      color: white;
+}
+.left p{
+    margin-bottom: 15px;
+}
+.right p{
+    margin-bottom: 15px;
+}
+
+button{
+    font-size: .875rem;
+    font-weight: 600;
+    padding: .6rem 4rem;
+    border-radius: 5px;
+    background-color: #ffcd00;
+    border: #b38f00 solid 1px;
+    color: #002e6d;
+    margin-top: 20px;
+    justify-self: center;
+    align-self: center;
+    width: 100%;
+}
+
+
+
+
+
+/* coc */
+.insid{
+    color: rgb(130, 130, 130);
+}
+
+.pay{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.cc1 img{
+    width: 100%;
+
+}
+.vis img{
+    width: 100%;
+}
+.btn2{
+    width: 100%;
+    margin: 20px 0px;
+    color: #ffffff;
+    background-color: #00acf1 !important;
+    border: none;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.in2{
+    display: flex;
+    
+}
+input{
+    margin-top: 10px;
+    border: 1px solid #626262 !important;
+
+
+display: block;
+font-size: 14px;
+font-weight: 400;
+height: 35px;
+
+
+transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+margin-bottom: 17px;
+width: 100%;
+outline: none;
+color: #585858;
+padding: 6px 12px 7px;
+
+
+width: 100%;
+height: 40px;
+margin-top: 10px;
+border: 1px solid rgb(149, 147, 147);
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+padding-left: 10px;
+font-size: 17px;
+}
+input:focus{
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+}
+.mm{
+    margin-right: 15px;
+
+}
+
+
+
+
+
+.section3{
+    padding: 10px 20px;
+}
+
+
+
+.section{
+    padding: 1.5rem;
+    margin-top: 0px;
+    margin: 0 20px;
+    border: rgb(130, 130, 130) 1px solid;
+    border-radius: 10px;
+    
+    margin-bottom: 180px;
+    
+}
+
+.exp{
+    display: flex;
+}
+.cfifi{
+    width: 50%;
+}
+.ccimg{
+    width: 100%;
+}
+
+
+
+.pp3{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+.forma{
+    margin: 15px;
+    padding: 15px;
+    border: 1px rgb(128, 128, 128) solid;
+    border-radius: 10px;
+    margin-bottom: 140px;
+}
+
+.forma p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #002e6d;
+} 
+.eg{
+    color: rgb(226, 24, 24);
+} 
+
+.pp6{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 13px;
+}
+.p-0{
+    color: black !important;
+    margin-top: 30px ;
+    margin-bottom: 15px;
+}
